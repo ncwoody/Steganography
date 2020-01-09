@@ -1,0 +1,8 @@
+This file is a program which will take a set of latitude and longitude coordinates and turn them into a list of favorite songs and albums.
+This project was started in January of 2020 by Noah Woodman.
+While this project is in a semi-working state, it is not completely finished, and I will hopefully continue work on it when I have time.
+
+To do:
+Fix randomness (currently was just made to work, but is predictable)
+Fix decryption (has some warnings when compiling)
+Fix selection overall (currently has some bugs, such as being able to pick the same song twice, and not utilizing all songs which are referenced in the program)
