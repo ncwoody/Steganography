@@ -1,1 +1,7 @@
 A simple shell that I made that will run the programs that I put into this repository.
+Started at the end of January 2020 by Noah Woodman
+This may well not be the most optimal way to implement the features that I want to implement, I will work on updating to the best solutions as I have the time.
+
+To Do:
+Make sizeof() function work correctly
+Maybe have the edit function compile and run the shell again itself
