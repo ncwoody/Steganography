@@ -1,1 +1,7 @@
-edit later
+A simple program that will create walking bass lines where the notes selected will correlate to binary digits the user chose
+Not the most optimal notes chosen for walking (choses closest note in scale, not closes note to the note you have to get to), but oh well
+
+To do:
+Add a decryption program
+Allow the user to enter more than two chords to walk on
+All the user to do more than two binary digits at a time
